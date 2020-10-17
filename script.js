@@ -12,7 +12,8 @@ var userPass = [];
 
 // Write password to the #password input
 function writePassword() {
-
+  userPass = [];
+  
   let length = prompt("Choose between 8 and 128 digits for your password");
   if(length < 8 || length > 128) {
     alert("Sorry but your password must be between 8 and 128 digits. Also make sure you are typing in numbers only.");
