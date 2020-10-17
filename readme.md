@@ -10,6 +10,7 @@ if you did  not type in a digit between 8 and 128 for the password length it wil
 
 Links:
 https://maxx-808.github.io/RandomPasswordGenerator/
+
 https://github.com/maxx-808/RandomPasswordGenerator.git
 
 here are the screenshots of the steps through my password generator
