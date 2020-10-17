@@ -8,6 +8,10 @@ then it will ask through a series of prompts what type of characters you want in
 
 if you did  not type in a digit between 8 and 128 for the password length it will send an error message and return to home screen. if you dont choose any character types it will return to homescreen
 
+Links:
+https://maxx-808.github.io/RandomPasswordGenerator/
+https://github.com/maxx-808/RandomPasswordGenerator.git
+
 here are the screenshots of the steps through my password generator
 ![JS homework SS 1](https://user-images.githubusercontent.com/69176601/96354042-b7704500-106d-11eb-8364-802b104db979.jpg)
 ![JS homework SS 2](https://user-images.githubusercontent.com/69176601/96354044-b9d29f00-106d-11eb-989c-764cf2e8da16.jpg)
